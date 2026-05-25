@@ -12,17 +12,17 @@ Baixe a versão mais recente do instalador:
 
 Exibe relatórios em tela por filtros como:
 
-**Detalhadas** - exibindo por ramal as ligações geradas, recebidas e internas.
+**Detalhadas** - exibe por ramal as ligações realizadas, recebidas e internas.
 
-**Rateio mensal** - faz o rateio da conta telefônica entre Centro de Custos e ramais que fizeram ligações externas.
+**Rateio mensal** - faz o rateio da conta telefônica entre centros de custo e ramais que realizaram ligações externas.
 
-**Resumo ramal** - gera um resumo totalizando por ramal chamadas originadas, recebidas e internas.
+**Resumo ramal** - gera um resumo totalizando por ramal as chamadas originadas, recebidas e internas.
 
-**Resumo Fixo/Movel** - contabiliza chamadas com destino FIXO e MÓVEL, para fins de minutagem, pois algumas operadoras comercializam minutagem ao invés de planos ilimitados, assim é possível saber o consumo de minutos em ligações de acordo com destinos fixos e móveis.
+**Resumo Fixo/Móvel** - contabiliza chamadas com destino fixo e móvel para fins de minutagem. Isso permite acompanhar o consumo de minutos quando a operadora comercializa franquias em vez de planos ilimitados.
 
-**Resumo por Estado** - contabiliza ligações recebidas ou geradas com base no DDD, separando por Estado.
+**Resumo por Estado** - contabiliza ligações realizadas e recebidas com base no DDD, separando por estado.
 
-**Painel Simultâneas** - permite saber quantas chamadas simultâneas ocorreram dentro do período, exibindo quais chamadas estavam ocupadas no instante. Serve para estimar canais ocupados ao mesmo tempo.
+**Painel de Simultâneas** - permite identificar quantas chamadas simultâneas ocorreram no período, exibindo quais chamadas estavam ocupadas no mesmo instante. Serve para estimar quantos canais ficaram ocupados ao mesmo tempo.
 
 ## Instalação
 
