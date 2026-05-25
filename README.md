@@ -10,12 +10,19 @@ Baixe a versão mais recente do instalador:
 
 ## O que o sistema faz
 
-- coleta os bilhetes de chamadas do PABX;
-- importa os registros para banco Firebird;
-- gera relatórios por ramal;
-- exibe resumo de chamadas por destino;
-- realiza rateio mensal da conta telefônica;
-- mostra painel de chamadas simultâneas.
+Exibe relatórios em tela por filtros como:
+
+**Detalhadas** - exibindo por ramal as ligações geradas, recebidas e internas.
+
+**Rateio mensal** - faz o rateio da conta telefônica entre Centro de Custos e ramais que fizeram ligações externas.
+
+**Resumo ramal** - gera um resumo totalizando por ramal chamadas originadas, recebidas e internas.
+
+**Resumo Fixo/Movel** - contabiliza chamadas com destino FIXO e MÓVEL, para fins de minutagem, pois algumas operadoras comercializam minutagem ao invés de planos ilimitados, assim é possível saber o consumo de minutos em ligações de acordo com destinos fixos e móveis.
+
+**Resumo por Estado** - contabiliza ligações recebidas ou geradas com base no DDD, separando por Estado.
+
+**Painel Simultâneas** - permite saber quantas chamadas simultâneas ocorreram dentro do período, exibindo quais chamadas estavam ocupadas no instante. Serve para estimar canais ocupados ao mesmo tempo.
 
 ## Instalação
 
