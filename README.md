@@ -24,6 +24,8 @@ Exibe relatórios em tela por filtros como:
 
 **Painel de Simultâneas** - permite identificar quantas chamadas simultâneas ocorreram no período, exibindo quais chamadas estavam ocupadas no mesmo instante. Serve para estimar quantos canais ficaram ocupados ao mesmo tempo.
 
+**Terceiros** - permite enviar para sistemas hoteleiros apenas as ligações originadas. Coleta ligações originadas, recebidas e internas, repassando somente os bilhetes das originadas para o sistema hoteleiro.
+
 ## Instalação
 
 1. Baixe o instalador.
